@@ -14,6 +14,7 @@ _It is a very simple project :)_
 * Item 3
 
 __Todo__
--[x] To-Do list
--[ ] Table
--[ ] Links
+
+- [x] To-Do list
+- [ ] Table
+- [ ] Links
