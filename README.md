@@ -13,3 +13,13 @@ _It is a very simple project :)_
   * Item 2b
 * Item 3
 
+__Table__
+Fruit|Colour
+-----------
+Banana|Yellow
+Orange|Orange
+Lime|Green
+Pineapple|Yellow
+Apple|Green/Red
+Plum|Purple
+Strawberry|Red
