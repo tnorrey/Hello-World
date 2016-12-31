@@ -2,7 +2,7 @@
 ## Intro
 Just following the github tutorial
 
-__It is a very simple project :)__
+_It is a very simple project :)_
 
 **It has now been edited in a branch**
 
