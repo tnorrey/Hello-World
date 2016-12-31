@@ -13,3 +13,7 @@ _It is a very simple project :)_
   * Item 2b
 * Item 3
 
+__Todo__
+-[x] To-Do list
+-[ ] Table
+-[ ] Links
