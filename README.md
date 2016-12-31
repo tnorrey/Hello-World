@@ -29,6 +29,6 @@ Strawberry | Red
 __Todo__
 
 - [x] To-Do list
-- [ ] Table
+- [x] Table
 - [ ] Links
 
