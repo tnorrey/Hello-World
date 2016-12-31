@@ -16,7 +16,7 @@ _It is a very simple project :)_
 
 __Table__
 Fruit|Colour
------------
+-----|------
 Banana|Yellow
 Orange|Orange
 Lime|Green
